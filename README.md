@@ -1,2 +1,2 @@
-# shiba-adoption
-Shiba Adoption Website
+# web-dev
+Web Development Projects
